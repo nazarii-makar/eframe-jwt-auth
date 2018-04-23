@@ -1,6 +1,6 @@
 <?php
 
-namespace EFrame\Auth\Providers\JWT;
+namespace EFrame\JWTAuth\Providers\JWT;
 
 use Exception;
 use ReflectionClass;

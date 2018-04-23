@@ -1,6 +1,6 @@
 <?php
 
-namespace EFrame\Auth\Http\Middleware;
+namespace EFrame\JWTAuth\Http\Middleware;
 
 use Closure;
 use Tymon\JWTAuth\Http\Middleware\BaseMiddleware;
